@@ -3,7 +3,7 @@
 ext {
    dbunitVersion = '2.5.0'
    junitVersion = '4.10'
-   h2Version = '1.4.179'
+   h2Version = '1.4.200'
 }
 
 // PROJECT
